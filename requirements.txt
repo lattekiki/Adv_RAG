@@ -1,0 +1,16 @@
+langchain-google-genai
+sentence-transformers
+streamlit
+langchain
+pandas
+matplotlib
+seaborn
+langchain-groq
+langchain-community
+langgraph
+langchain-huggingface
+google-generativeai
+pillow
+numpy
+python-dotenv
+faiss-cpu
