@@ -1,0 +1,8 @@
+# .streamlit/config.toml
+
+[theme]
+primaryColor = "#ff69b4"       # Hot pink for buttons and highlights
+backgroundColor = "#fff0f5"    # Light pink background
+secondaryBackgroundColor = "#ffe4e1"  # Soft rose for containers
+textColor = "#4b0082"          # Deep violet for text
+font = "Comic Sans MS"         # Playful font
