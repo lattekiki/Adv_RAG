@@ -1,0 +1,26 @@
+body {
+    background-color: #fff0f5;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    color: #4b0082;
+}
+
+h1, h2, h3 {
+    color: #ff69b4;
+}
+
+.stButton>button {
+    background-color: #ffb6c1;
+    color: white;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.stFileUploader {
+    background-color: #ffe4e1;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.stMarkdown {
+    font-size: 18px;
+}
